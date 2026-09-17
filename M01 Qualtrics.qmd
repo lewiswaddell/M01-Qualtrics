@@ -20,22 +20,22 @@ execute:
 
 # Qualtrics Shared Evidence
 
-![Survey shared with jmjung with all permissions activated](Proof of Sharing.png){fig-align="center" width="800"}
+![Survey shared with jmjung with all permissions activated](Proof%20of%20Sharing.png){fig-align="center" width="800"}
 
 # Beginning of Qualtrics Survey
 
-![](Beginning of Survey.png){width="800"}
+![](Beginning%20of%20Survey.png){width="800"}
 
 # Middle of Qualtrics Survey
 
-![](Middle of Survey.png){width="800"}
+![](Middle%20of%20Survey.png){width="800"}
 
 # End of Qualtrics Survey
 
-![](End of Qualtrics Survey.png){width="800"}
+![](End%20of%20Qualtrics%20Survey.png){width="800"}
 
 # Appendix
 
-- GitHub Repository
+- [GitHub Repository](https://github.com/lewiswaddell/M01-Qualtrics.git)
 
-- GitHub Pages
+- [GitHub Pages](https://lewiswaddell.github.io/M01-Qualtrics/)
