@@ -1,0 +1,41 @@
+---
+title: "Qualtrics M01-1 Designing Survey (Rough draft & Sharing Qualtrics) "
+author: "Leeann Lewis-Waddell"
+date: today
+format: 
+  html: 
+    self-contained: true
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-line-numbers: true
+    code-fold: false
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+  warning: false
+---
+
+# Qualtrics Shared Evidence
+
+![Survey shared with jmjung with all permissions activated](Proof of Sharing.png){fig-align="center" width="800"}
+
+# Beginning of Qualtrics Survey
+
+![](Beginning of Survey.png){width="800"}
+
+# Middle of Qualtrics Survey
+
+![](Middle of Survey.png){width="800"}
+
+# End of Qualtrics Survey
+
+![](End of Qualtrics Survey.png){width="800"}
+
+# Appendix
+
+- GitHub Repository
+
+- GitHub Pages
